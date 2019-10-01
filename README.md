@@ -23,12 +23,12 @@ propuestas se pueden visualizar de manera interactiva en los siguientes enlaces 
 ## Capturas de pantalla de la aplicación
 
 <p>
-  <img src="/DatosUsuario/Screenshot_20190829-173415.png" alt="Screen 1" width="300" height="500" />
-  <img src="/DatosUsuario/Screenshot_20190902-172810.png" alt="Screen 6" width="300" height="500" />
-  <img src="/DatosUsuario/Screenshot_20190829-173442.png" alt="Screen 2" width="300" height="500" />
-  <img src="/DatosUsuario/Screenshot_20190829-173445.png" alt="Screen 3" width="300" height="500" />
-  <img src="/DatosUsuario/Screenshot_20190829-173449.png" alt="Screen 4" width="300" height="500" />
-  <img src="/DatosUsuario/Screenshot_20190829-173458.png" alt="Screen 5" width="300" height="500" />
+  <img src="/DatosUsuario/Screenshot_20190829-173415.png" alt="Screen 1" width="300" height="525" />
+  <img src="/DatosUsuario/Screenshot_20190902-172810.png" alt="Screen 6" width="300" height="525" />
+  <img src="/DatosUsuario/Screenshot_20190829-173442.png" alt="Screen 2" width="300" height="525" />
+  <img src="/DatosUsuario/Screenshot_20190829-173445.png" alt="Screen 3" width="300" height="525" />
+  <img src="/DatosUsuario/Screenshot_20190829-173449.png" alt="Screen 4" width="300" height="525" />
+  <img src="/DatosUsuario/Screenshot_20190829-173458.png" alt="Screen 5" width="300" height="525" />
 </p>
 
 ## Conclusión
