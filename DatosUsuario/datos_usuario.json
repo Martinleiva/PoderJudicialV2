@@ -1,0 +1,59 @@
+{
+    "id" : "aQSffXvcc",
+    "usuario" : "maxi@test.com",
+    "password" : "pass",
+    "foto" :"../../../DatosUsuario/PerfilMaxi.jpg",
+    "datos_personales" : {
+        "apellidos" : "Maubecin",
+        "nombres" : "Maximiliano Elias",
+        "nro_doc" : "36844431",
+        "tipo_doc" : "DNI",
+        "nro_cuil" : "20-36844431-7",
+        "sexo" : "Masculino",
+        "estado_civil" : "Soltero",
+        "nacionalidad" : "Argentino",
+        "fecha_nacimiento" : "18/05/1992",
+        "lugar_nacimiento" : "Catamarca",
+        "tel_fijo" : "3834112233",
+        "tel_celular" : "3834445566",
+        "domicilio" : "Belgrano 500",
+        "barrio" : "Parque America",
+        "localidad" : "Capital",
+        "codigo_postal" : "4700",
+        "departamento" : "Capital",
+        "provincia" : "Catamarca"
+    },
+    "datos_laborales" : {
+        "estado_lab_actual" : "Activo",
+        "ult_cambio_estado" : "18/01/2019",
+        "nro_legajo" : "1754",
+        "antiguedad" : "1 año, 2 meses",
+        "antiguedad_otros_cargos" : "No posee",
+        "horario" : "07:00 a 13:00",
+        "fecha_ingreso" : "16/04/2018",
+        "cargo" : {
+            "nivel" : "Escribiente",
+            "agrupamiento" : "Administrativos",
+            "situacion_laboral" : "Permanente",
+            "jurisdiccion" : "Poder Judicial",
+            "tipo_instrumento_legal" : "Resolución",
+            "instrumento_legal" : "4456",
+            "fecha_instrumento_legal" : "16/04/2018"
+        },
+        "circunscripcion" : {
+            "tipo" : "Circ. Judicial N° 1 - Capital",
+            "unidad" : "Corte de Justicia",
+            "organismo" : "Secretarias de Corte",
+            "dependencia" : "Secretaria de Superintendencia de personal",
+            "direccion" : "Republica 500",
+            "departamento" : "Capital",
+            "division" : "1",
+            "fecha_ingreso_dependencia" : "01/11/2016",
+            "tipo_instrumento_legal" : "Resolucion",
+            "instrumento_legal" : "4456",
+            "fecha_instrumento_legal" : "16/04/2018"
+        }
+        
+    }
+    
+}
